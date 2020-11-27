@@ -1,0 +1,5 @@
+// =====================CATEGORY_DETAILS================================
+
+export const CATEGORY_DETAILS = "CATEGORY_DETAILS";
+export const CATEGORY_DETAILS_SUCCESS = "CATEGORY_DETAILS_SUCCESS";
+export const CATEGORY_DETAILS_FAILURE = "CATEGORY_DETAILS_FAILURE";
